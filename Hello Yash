@@ -1,0 +1,4 @@
+>a=("Hello Vaibhavi")
+>print a
+>b=("this is a greeting from jay and ketki")
+print b
